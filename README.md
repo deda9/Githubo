@@ -1,6 +1,11 @@
 # Githubo
 
 
+<p align="center">
+    <img src="https://github.com/deda9/Githubo/blob/master/video.gif" height="568" width="280">
+</p>
+
+
 Hello!
 This small Open Source Github project, help beginners to learn how to write clean code with 
 * **VIPER Architecture**
