@@ -1,0 +1,76 @@
+PODS:
+  - Alamofire (4.8.1)
+  - Cartography (3.1.0)
+  - Kingfisher (4.10.1)
+  - Moya/Core (12.0.1):
+    - Alamofire (~> 4.1)
+    - Result (~> 4.0)
+  - Moya/RxSwift (12.0.1):
+    - Moya/Core
+    - RxSwift (~> 4.0)
+  - Nimble (7.3.1)
+  - OHHTTPStubs/Core (6.1.0)
+  - OHHTTPStubs/Default (6.1.0):
+    - OHHTTPStubs/Core
+    - OHHTTPStubs/JSON
+    - OHHTTPStubs/NSURLSession
+    - OHHTTPStubs/OHPathHelpers
+  - OHHTTPStubs/JSON (6.1.0):
+    - OHHTTPStubs/Core
+  - OHHTTPStubs/NSURLSession (6.1.0):
+    - OHHTTPStubs/Core
+  - OHHTTPStubs/OHPathHelpers (6.1.0)
+  - OHHTTPStubs/Swift (6.1.0):
+    - OHHTTPStubs/Default
+  - Quick (1.3.2)
+  - Result (4.1.0)
+  - RxAtomic (4.4.0)
+  - RxCocoa (4.4.0):
+    - RxSwift (~> 4.0)
+  - RxSwift (4.4.0):
+    - RxAtomic (~> 4.4)
+  - SwiftLint (0.29.4)
+
+DEPENDENCIES:
+  - Alamofire
+  - Cartography
+  - Kingfisher
+  - Moya/RxSwift
+  - Nimble
+  - OHHTTPStubs/Swift
+  - Quick
+  - RxCocoa
+  - SwiftLint
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - Cartography
+    - Kingfisher
+    - Moya
+    - Nimble
+    - OHHTTPStubs
+    - Quick
+    - Result
+    - RxAtomic
+    - RxCocoa
+    - RxSwift
+    - SwiftLint
+
+SPEC CHECKSUMS:
+  Alamofire: 16ce2c353fb72865124ddae8a57c5942388f4f11
+  Cartography: 1988b7578871a56c036e7af17195cb2190edf18c
+  Kingfisher: c148cd7b47ebde9989f6bc7c27dcaa79d81279a0
+  Moya: cf730b3cd9e005401ef37a85143aa141a12fd38f
+  Nimble: 04f732da099ea4d153122aec8c2a88fd0c7219ae
+  OHHTTPStubs: 1e21c7d2c084b8153fc53d48400d8919d2d432d0
+  Quick: 2623cb30d7a7f41ca62f684f679586558f483d46
+  Result: bd966fac789cc6c1563440b348ab2598cc24d5c7
+  RxAtomic: eacf60db868c96bfd63320e28619fe29c179656f
+  RxCocoa: df63ebf7b9a70d6b4eeea407ed5dd4efc8979749
+  RxSwift: 5976ecd04fc2fefd648827c23de5e11157faa973
+  SwiftLint: 73f2ecfd0f6d812c8cb9a73c00fe809bc2504585
+
+PODFILE CHECKSUM: 01340060a5170b82d405d885efa393f61d361778
+
+COCOAPODS: 1.5.3

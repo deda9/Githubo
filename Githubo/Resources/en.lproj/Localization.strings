@@ -1,0 +1,9 @@
+"someThingIsWrong" = "Something went wrong, please try again";
+"RepositoriesListView.SearchBarView.Placeholder" = "Search Repositories";
+"UserDetailsView.Follower.Label" = "Followers ";
+"UserDetailsView.Following.Label" = "Following ";
+"UserDetailsView.PublicRepo.Label" = "Public Repo ";
+"UserDetailsView.PublicGist.Label" = "Public Gist ";
+"RepositoryTableViewCell.StarsLabel" = "Stars ";
+"RepositoryTableViewCell.ForksLabel" = "Forks ";
+
